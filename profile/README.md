@@ -1,6 +1,7 @@
 <h1 align = "center">
 <img src = "https://github.com/AuspicesAI/AuspicesAI.github.io/blob/main/images/logo.png" width = 400rem>
-  <p>AuspicesAI<br>Detect, Defend, Dominate: AuspicesAI Your Smart Cyber Guardian</p>
+  <h2>AuspicesAI<br></h2>
+  <p>Detect, Defend, Dominate: AuspicesAI Your Smart Cyber Guardian</p>
 </h1>
 <!--
 
