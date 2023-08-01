@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src = "https://github.com/AuspicesAI/AuspicesAI.github.io/blob/main/images/logo.png"> 👋
 
 <!--
 
