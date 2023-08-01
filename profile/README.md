@@ -1,4 +1,4 @@
-<h1 align = "center>
+<h1 align = "center">
 <img src = "https://github.com/AuspicesAI/AuspicesAI.github.io/blob/main/images/logo.png"> 👋
 </h1>
 <!--
